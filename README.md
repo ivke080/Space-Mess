@@ -1,5 +1,13 @@
 # Space Mess
 <p>This is the game (demo) made entirely in C++ using Glut library and OpenGl for Computer Graphics course</p>
+## Compile and run
+<ol>
+<li>sudo apt-get install freeglut3 freeglut3-dev</li>
+<li>Go to game's directory folder</li>
+<li>Type "make"</li>
+<li>Run output file (./spacemess)</li>
+<li>Enjoy :)</li>
+</ol>
 ## Different enemies and their attack patterns
 ### Boss
 Three attack patterns:
