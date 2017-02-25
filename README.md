@@ -32,5 +32,4 @@ Follows the player and tries to crash into him
 | ENTER | Menu Option Confirm|
 
 <p>p.s. Easy to play, hard to master. Enjoy the demo :)</p>
-<p>p.s.s. I didn't use any of the models, it's kinda hard to implement that with 
-this version of opengl and glut </p>
+<p>p.s.s. I didn't use any of the models, it wasn't point of the course, so maybe I'll implement it in the future</p>
