@@ -1,6 +1,6 @@
-# Space Mess
+<h1> Space Mess</h1>
 <p>This is the game (demo) made entirely in C++ using Glut library and OpenGl for Computer Graphics course</p>
-## Compile and run
+<h2> Compile and run</h2>
 <ol>
 <li>sudo apt-get install freeglut3 freeglut3-dev</li>
 <li>Go to game's directory folder</li>
@@ -8,20 +8,20 @@
 <li>Run output file (./spacemess)</li>
 <li>Enjoy :)</li>
 </ol>
-## Different enemies and their attack patterns
-### Boss
+<h2> Different enemies and their attack patterns</h2>
+<h3> Boss </h3>
 Three attack patterns:
 <ol>
 <li>Shotgun (3 waves of 5 bullets in different directions around the player)</li>
 <li>Line (15 bullets - 1 bullet every .5 seconds)</li>
 <li>Burst (3 bullets slightly faster than the others)</li>
 </ol>
-### Sniper
+<h3> Sniper </h3>
 Single attack: Fast bullet that deals alot of damage
-### Kamikaze
+<h3> Kamikaze </h3>
 Follows the player and tries to crash into him
 
-## Game Controls:
+<h2> Game Controls: </h2>
 
 | KEY  | ACTION |
 | ------------- | ------------- |
